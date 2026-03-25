@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xutility": "c",
+        "unity.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
