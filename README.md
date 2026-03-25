@@ -1,4 +1,7 @@
 # C-CPP-Code-Design
+## C encoder decoder
+semester 2 final assignment that is worth showing
+
 ## Assignment 1
 Sorting algorythms, big-O notation, & C programming basics
 
