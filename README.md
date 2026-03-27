@@ -1,4 +1,7 @@
 # C-CPP-Code-Design
+Code dump of my code design assignments during my main semester 3 technology. featuring C and c++, creating custom libraries for linkedlists, 
+and running code through WSL ubuntu with Valgrind to make sure the code has no memory leaks.
+
 ## C encoder decoder
 semester 2 final assignment that is worth showing
 
